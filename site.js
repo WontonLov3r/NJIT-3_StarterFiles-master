@@ -20,7 +20,6 @@
 // FOR STEP 16, ADD THREE OF YOUR OWN FAVORITE MOVIES WITH METADATA TO THE END OF THE JSON FILE LIST
 */
 
-s
 const vue_app = Vue.createApp({
       // This automatically imports your movies.json file and puts it into
       //   the variable: movies
@@ -34,9 +33,9 @@ const vue_app = Vue.createApp({
             // This holds your movies.json data.
             movies: [],
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
-            title:"",
-            owner:"",
-            github:"",
+            title:"IMBD + Dan's Top 8 Movies",
+            owner:"Dan",
+            github:"https://github.com/WontonLov3r",
       }
     },
       methods: {
