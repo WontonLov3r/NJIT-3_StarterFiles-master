@@ -47,7 +47,7 @@ const vue_app = Vue.createApp({
                               month = 'January'
                               break;
                         case 2:
-                              month = 'Febuary'
+                              month = 'February'
                               break
                         case 3:
                               month = 'March'
@@ -80,7 +80,7 @@ const vue_app = Vue.createApp({
                               month = 'December'
                               break
                   }
-                  return month + ' ' + dateArray[2] + ', ' + dateArray[0]
+                        return month + ' ' + dateArray[2] + ', ' + dateArray[0]
             }, 
       
             posterClick(index) {
