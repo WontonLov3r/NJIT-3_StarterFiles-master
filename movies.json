@@ -56,7 +56,35 @@
             "posterindex": 0
       },
       {
-            "title": "Schindler's List",
+            "title": "Peanuts Movie",
+            "iscore": 7,
+            "rating": "G",
+            "runtime": 89,
+            "released": [2015, 11, 6],
+            "country": "USA",
+            "posters": ["img/schindlerslist.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Puss in Boots",
+            "iscore": 8.9,
+            "rating": "R",
+            "runtime": 195,
+            "released": [1993, 11, 30],
+            "country": "USA",
+            "posters": ["img/schindlerslist.jpg"],
+            "imdb": "http://www.imdb.com/title/tt0108052",
+            "website": "https://www.uphe.com/schindlers-list",
+            "likes": 812,
+            "dislikes": 101,
+            "posterindex": 0
+      },
+      {
+            "title": "Big Hero 6",
             "iscore": 8.9,
             "rating": "R",
             "runtime": 195,

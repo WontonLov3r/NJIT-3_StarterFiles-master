@@ -99,8 +99,17 @@ const vue_app = Vue.createApp({
                   x = Math.trunc(minutes / 60)
                   y = minutes % 60
                   return x + "h " + y + "m"
+            },
+
+            like(index) {
+                  this.movies[index].likes++;
+            },
+
+            dislike(index) {
+                  this.movies[index].dislikes++
             }
       }
 })
 
 vue_app.mount("#vue_app")
+
