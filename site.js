@@ -36,6 +36,7 @@ const vue_app = Vue.createApp({
             title:"IMBD + Dan's Top 8 Movies",
             owner:"Dan",
             github:"https://github.com/WontonLov3r",
+            
       }
     },
       methods: {
